@@ -2,7 +2,21 @@
 
 Aplicación web desarrollada con React para registrar, consultar y dar seguimiento a tickets de soporte técnico.
 
-Este proyecto fue creado como parte de mi portafolio para practicar desarrollo frontend, manejo de estados, filtros, búsqueda y almacenamiento local de información.
+## Demo del proyecto
+
+Puedes ver el proyecto publicado en el siguiente enlace:
+
+https://sistema-tickets-soporte-ti.vercel.app/
+
+## Descripción del proyecto
+
+Este proyecto fue desarrollado como una simulación de un sistema básico de mesa de ayuda o soporte TI.
+
+La idea surgió a partir de la necesidad que tienen muchas áreas de tecnología de registrar y dar seguimiento a problemas reportados por usuarios, como fallas de acceso, errores en sistemas internos, problemas con equipos de cómputo o solicitudes de apoyo técnico.
+
+El sistema permite capturar tickets de soporte, asignarles una prioridad, consultar los registros, filtrar la información y actualizar el estado de cada solicitud. Esto ayuda a tener un mejor control de las incidencias y evita que los reportes se pierdan o se administren de forma desordenada.
+
+Este proyecto forma parte de mi portafolio como estudiante de Ingeniería en Sistemas Computacionales, con el objetivo de practicar desarrollo frontend, manejo de estados, formularios, filtros, persistencia local y publicación de proyectos en GitHub y Vercel.
 
 ## Funcionalidades
 
@@ -28,23 +42,20 @@ Este proyecto fue creado como parte de mi portafolio para practicar desarrollo f
 - LocalStorage
 - Git
 - GitHub
-
-## Objetivo del proyecto
-
-El objetivo de este proyecto es simular un sistema básico de mesa de ayuda o soporte TI, permitiendo administrar solicitudes de usuarios de forma sencilla.
-
-Este tipo de sistema puede ser utilizado como base para aplicaciones relacionadas con soporte técnico, gestión de incidencias o seguimiento de requerimientos internos.
+- Vercel
 
 ## Aprendizajes aplicados
 
-- Creación de componentes con React.
+- Creación de una aplicación web con React.
 - Manejo de estados con useState.
-- Uso de useEffect para guardar información.
-- Uso de useMemo para filtrar información.
+- Uso de useEffect para guardar información en LocalStorage.
+- Uso de useMemo para optimizar el filtrado de información.
 - Manejo de formularios.
 - Renderizado condicional.
-- Almacenamiento de datos en el navegador con LocalStorage.
+- Creación de filtros de búsqueda.
 - Diseño responsivo con CSS.
+- Control de versiones con Git y GitHub.
+- Despliegue de una aplicación web en Vercel.
 
 ## Autor
 
