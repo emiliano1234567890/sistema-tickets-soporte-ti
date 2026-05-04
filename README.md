@@ -8,6 +8,10 @@ Puedes ver el proyecto publicado en el siguiente enlace:
 
 https://sistema-tickets-soporte-ti.vercel.app/
 
+## Captura del sistema
+
+![Vista principal del sistema](./public/screenshots/vista-principal.png)
+
 ## Descripción del proyecto
 
 Este proyecto fue desarrollado como una simulación de un sistema básico de mesa de ayuda o soporte TI.
